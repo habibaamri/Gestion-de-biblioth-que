@@ -1,0 +1,16 @@
+<script type="text/javascript" src="Css/jquery.js"></script>
+<script type="text/javascript" src="Css/jquery-ui.js"></script>
+<script type="text/javascript" src="Css/materialize/js/materialize.js"></script> 
+<script type="text/javascript" src="Css/materialize/js/materialize.min.js"></script> 
+<link href="Css/materialize/css/materialize.css" rel="stylesheet" /> 
+<script type="text/javascript" src="Css/js.js"></script>
+<link href="Css/style.css" rel="stylesheet" />
+<link href="Css/entypo.css" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn" %>
+<%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+
+
+
